@@ -1,1 +1,1 @@
-setScore(prev => ({ ...prev, [data.result + "s"]: prev[data.result + "s"] + 1 }));
+// Do not store admin credentials in localStorage
