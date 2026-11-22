@@ -1,1 +1,3 @@
-"scissors": "paper",
+return jsonify({
+        "status": "ok"
+    })
