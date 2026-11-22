@@ -1,3 +1,1 @@
-return jsonify({
-        "status": "ok"
-    })
+"scissors": "paper",
