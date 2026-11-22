@@ -1,1 +1,1 @@
-setInterval(() => setSeconds(prev => prev + 1), 1000);
+setScore(prev => ({ ...prev, [data.result + "s"]: prev[data.result + "s"] + 1 }));
