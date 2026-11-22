@@ -1,1 +1,1 @@
-"WHERE player = ? ORDER BY id DESC", (player, )
+app.run(host="0.0.0.0", port=5000)
