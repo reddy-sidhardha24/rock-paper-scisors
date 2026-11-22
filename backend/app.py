@@ -1,1 +1,1 @@
-"scissors": "paper",
+"WHERE player = ? ORDER BY id DESC", (player, )
